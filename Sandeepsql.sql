@@ -1,1 +1,1 @@
-SELECT * FROM chaman.sandeep chamanchula;
+SELECT * FROM chaman.sandeep chamanchulaaaaaaaaaaaaaa;
